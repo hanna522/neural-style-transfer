@@ -35,10 +35,20 @@ The project is modularized into three main classes:
 
 ## Sample Results
 
-<img width="332" alt="image" src="https://github.com/user-attachments/assets/148b3e65-863f-4402-9bf3-7c086e806d3b" />![image](https://github.com/user-attachments/assets/2bbe759e-1dd0-4f73-a52b-bae2443372a3)![image](https://github.com/user-attachments/assets/efc037f8-e852-4de1-9e0b-2f7dde43ecb1)![image](https://github.com/user-attachments/assets/ebe33ee7-790d-4c57-8783-a8a365b433dd)<img width="155" alt="image" src="https://github.com/user-attachments/assets/a0855d93-178e-4a4d-8b61-60b9e4640d28" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/148b3e65-863f-4402-9bf3-7c086e806d3b" height="100"/>
+  <img src="https://github.com/user-attachments/assets/2bbe759e-1dd0-4f73-a52b-bae2443372a3" height="150"/>
+  <img src="https://github.com/user-attachments/assets/efc037f8-e852-4de1-9e0b-2f7dde43ecb1" height="150"/>
+  <img src="https://github.com/user-attachments/assets/ebe33ee7-790d-4c57-8783-a8a365b433dd" height="150"/>
+  <img src="https://github.com/user-attachments/assets/a0855d93-178e-4a4d-8b61-60b9e4640d28" height="100"/>
+</p>
 
 Also, our model successfully swaps content and style roles to create flexible transformations
-<img width="303" alt="image" src="https://github.com/user-attachments/assets/7646c2e3-f1a3-442b-ae7d-822802158b27" /><img width="303" alt="image" src="https://github.com/user-attachments/assets/1eb35094-a5e8-4ea0-a58c-97311d813065" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7646c2e3-f1a3-442b-ae7d-822802158b27" height="150"/>
+  <img src="https://github.com/user-attachments/assets/1eb35094-a5e8-4ea0-a58c-97311d813065" height="150"/>
+</p>
 
 We compared performance across optimizers and different alpha values:
 
